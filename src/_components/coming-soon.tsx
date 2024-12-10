@@ -1,4 +1,4 @@
-import Logo from "../assets/images/logo-white.png"
+// import Logo from "../assets/images/logo-white.png"
 import BgImg from "../assets/images/FB_IMG_1733590357493.jpg"
 import { motion } from "motion/react"
 
